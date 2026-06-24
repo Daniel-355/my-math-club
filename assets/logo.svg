@@ -1,7 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="260" height="80" viewBox="0 0 260 80">
-<rect width="260" height="80" fill="white"/>
-<circle cx="39" cy="40" r="30" fill="#7cc6ff"/>
-<path d="M24 44 L36 25 L48 44 L58 30" fill="none" stroke="#0a3871" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="78" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#1d4e89">Magnificent</text>
-<text x="78" y="60" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#1d4e89">Math Club</text>
+  <rect width="260" height="80" rx="10" fill="white"/>
+  <circle cx="40" cy="40" r="30" fill="#7cc6ff"/>
+  <path d="M22 47 C30 27 44 27 58 47" fill="none" stroke="#0a3871" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="30" cy="35" r="3" fill="#f8b400"/>
+  <circle cx="40" cy="30" r="3" fill="#f8b400"/>
+  <circle cx="50" cy="35" r="3" fill="#f8b400"/>
+  <text x="78" y="39" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#1d4e89">Math Fun</text>
+  <text x="80" y="61" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#52708f">Learn • Think • Grow</text>
 </svg>
